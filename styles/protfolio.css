@@ -1,0 +1,32 @@
+
+/* nav related styles */
+
+nav{display: flex;
+       justify-content: space-between;  
+   align-items: center;}
+
+nav ul{display: flex;
+      align-items: center;}
+
+nav li{margin-right: 50px;
+      list-style: none;}
+
+nav a{text-decoration: none;
+     color:black;}
+
+.nav-title{color:#1811818;
+          font-size: 45px;
+          font-weight:800;}
+
+  body{font-family: 'Lato ' sans-serif;
+  font-family: 'openr sans' sans-serif;}
+  
+.text-color{color:#FD6E0A;}
+ 
+
+.btn-color{background-color: #fd6E0A;
+ border-radius: 5px;
+ border:0;
+ color:white;
+ font-weight: 700;
+ padding: 15px 35px;}
